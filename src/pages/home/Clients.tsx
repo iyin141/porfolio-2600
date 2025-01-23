@@ -1,8 +1,8 @@
 
 const content = [
-  { src: './src/assets/sixteen.png', h1: 'Product Design', p: 'The product delivers impressive performance with a sleek design that complements its user-friendly interface. It provides exceptional value for money. ' },
-  { src: './src/assets/seventeen.png', h1: 'Art Direction', p: 'The product delivers impressive performance with a sleek design that complements its user-friendly interface. It provides exceptional value for money. ' },
-  { src: './src/assets/eighteen.png', h1: 'Visual Design', p: 'The product delivers impressive performance with a sleek design that complements its user-friendly interface. It provides exceptional value for money. ' }
+  { src: 'assets/sixteen.png', h1: 'Product Design', p: 'The product delivers impressive performance with a sleek design that complements its user-friendly interface. It provides exceptional value for money. ' },
+  { src: 'assets/seventeen.png', h1: 'Art Direction', p: 'The product delivers impressive performance with a sleek design that complements its user-friendly interface. It provides exceptional value for money. ' },
+  { src: 'assets/eighteen.png', h1: 'Visual Design', p: 'The product delivers impressive performance with a sleek design that complements its user-friendly interface. It provides exceptional value for money. ' }
 ];
 
 const Clients = () => {

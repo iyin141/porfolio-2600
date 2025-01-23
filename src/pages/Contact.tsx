@@ -8,7 +8,7 @@ const Contact = () => {
          <div className=" md:w-[40%] xs:w-[100%]">
           <h1 className=" font-medium   md:text-[2.5rem] xs:text-[3rem] track-wider">Let’s work together</h1>
           <p className="pt-12">Let’s collaborate to create something exceptional. Together, we can combine our strengths and ideas to produce results that surpass expectations. </p>
-          <img src="./src/assets/Social_icons.png" className="pt-[5rem]" alt="" />
+          <img src="assets/Social_icons.png" className="pt-[5rem]" alt="" />
         </div>
         <div className="md:w-[50%] xs:w-[100%]">
           <form action="" className="flex flex-col gap-4">

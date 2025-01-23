@@ -2,11 +2,11 @@ const img = "p-8 text-center";
 
 
 const content = [
-  { src: './src/assets/one.png', a: 'https://www.themacron.org/', },
-  { src: './src/assets/two.png', a: 'google.com' },
-  { src: './src/assets/three.png', a: 'https://www.apple.com/'},
-  { src: './src/assets/four.png', a: 'https://dribbble.com/tags/landing-page', },
-  { src: './src/assets/five.png', a: 'https://www.awwwards.com/', }
+  { src: 'assets/one.png', a: 'https://www.themacron.org/', },
+  { src: 'assets/two.png', a: 'google.com' },
+  { src: 'assets/three.png', a: 'https://www.apple.com/'},
+  { src: 'assets/four.png', a: 'https://dribbble.com/tags/landing-page', },
+  { src: 'assets/five.png', a: 'https://www.awwwards.com/', }
 ];
 
 const Logo = () => {

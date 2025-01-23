@@ -6,7 +6,7 @@ const One = () => {
           <div className="bg-[#F9E6F0] animate-move">
               <div className="flex xs:flex-wrap md:flex-nowrap md:gap-12 xl:gap-[5rem]  md:justify-center md:items-center md:pl-[12.5rem] md:pr-[10.5rem] pt-[8rem] pb-[5rem] xs:pl-6 xs:pr-6">
                   <div className="md:w-[50%] flex flex-col gap-1 ">
-                      <img src="./src/assets/nine.png" className="opacity-[45%] xs:w-[25rem] md:w-auto  border-2 border-black" alt="" />
+                      <img src="assets/nine.png" className="opacity-[45%] xs:w-[25rem] md:w-auto  border-2 border-black" alt="" />
                       <h1 className="font-black pt-6">Akinpelumi Iyinoluwa</h1>
                       <h2 className={`${text}`}>Frontend designer</h2>
                       <h2 className={`${text}`}>Student</h2>

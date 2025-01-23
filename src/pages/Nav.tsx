@@ -21,10 +21,10 @@ const Nav = () => {
 
   return (
     <Router>
-      <div className=" pt-2 md:pl-10 md:pr-10 xs:pl-5 xs:pr-5  pb-2 md:flex pb-6 ">
+      <div className=" pt-2 md:pl-10 md:pr-10 xs:pl-5 xs:pr-5   md:flex pb-6 ">
       <h1 className="flex-1  flex justify-between">
           <Link to="/">
-          <img src="./src/assets/Frame 13@2x.png" alt="" className="w-[150px] h-auto " />
+          <img src="assets/Frame 13@2x.png" alt="" className="w-[150px] h-auto " />
           </Link>
             <button className="xs:block md:hidden w-[30px] overflow-hidden" onClick={() => (display ? close() :show())}>
               <span className={`${span} `}></span>

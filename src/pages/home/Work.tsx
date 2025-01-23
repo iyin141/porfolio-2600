@@ -3,15 +3,15 @@ const h3 = "tracking-wide pt-6 text-[1rem] xs:text-center md:text-left";
 const container = "md:flex xs:flex-wrap md:flex-nowrap md:gap-6 xl:gap-[4.7rem] pt-12";
 
 const content = [
-  { src: './src/assets/nine.png', h1: 'Free Bird', h3: 'Lynyrd Skynyrd' },
-  { src: './src/assets/ten.png', h1: 'Purple Haze', h3: 'Jimi Hendrix' },
-  { src: './src/assets/eleven.png', h1: 'You Really Got Me', h3: 'The Kinks' }
+  { src: 'assets/nine.png', h1: 'Free Bird', h3: 'Lynyrd Skynyrd' },
+  { src: 'assets/ten.png', h1: 'Purple Haze', h3: 'Jimi Hendrix' },
+  { src: 'assets/eleven.png', h1: 'You Really Got Me', h3: 'The Kinks' }
 ];
 
 const content_2 = [
-  { src: './src/assets/thirteen.png', h1: 'American Girl', h3: 'Tom Petty' },
-  { src: './src/assets/fourteen.png', h1: 'Whole Lotta Love', h3: 'Led Zeppelin' },
-  { src: './src/assets/fifteen.png', h1: 'Under Pressure ', h3: 'Queen' }
+  { src: 'assets/thirteen.png', h1: 'American Girl', h3: 'Tom Petty' },
+  { src: 'assets/fourteen.png', h1: 'Whole Lotta Love', h3: 'Led Zeppelin' },
+  { src: 'assets/fifteen.png', h1: 'Under Pressure ', h3: 'Queen' }
 ];
 
 

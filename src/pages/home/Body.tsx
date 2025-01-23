@@ -4,9 +4,9 @@ const header = "font-bold tracking-wide pt-10 md:text-[1.5rem] xs:text-[1rem]";
 const text = "leading-loose pt-10";
 
 const content = [
-  { src: './src/assets/six.png', h1: 'Product Design', p: 'Product design blends creativity and problem-solving to create functional,  solutions that align with user needs and goals.' },
-  { src: './src/assets/seven.png', h1: 'Art Direction', p: 'Art direction shapes the visual style and mood of a project, aligning design elements like color, typography, and imagery with the message and audience.' },
-  { src: './src/assets/eight.png', h1: 'Visual Design', p: 'Visual design enhances aesthetics and usability, using typography, color, and layout to create cohesive designs that improve user experience.' }
+  { src: 'assets/six.png', h1: 'Product Design', p: 'Product design blends creativity and problem-solving to create functional,  solutions that align with user needs and goals.' },
+  { src: 'assets/seven.png', h1: 'Art Direction', p: 'Art direction shapes the visual style and mood of a project, aligning design elements like color, typography, and imagery with the message and audience.' },
+  { src: 'assets/eight.png', h1: 'Visual Design', p: 'Visual design enhances aesthetics and usability, using typography, color, and layout to create cohesive designs that improve user experience.' }
 ];
 
 

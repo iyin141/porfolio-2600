@@ -16,7 +16,7 @@ const Hero = () => {
                     <h4 className={`${typo} ml-3.5 text-gray-500 pt-10  `}> <span className="xs:hidden md:block">Welcome to my portfolio! Explore my work, skills, and projects.</span> <span className="md:hidden xs:block">consectetur adipisicing elit. Ipsum officiis, distinctio placeat nulla quo exercitationem blanditiis asperiores veniam, </span></h4>
                 </div>
                 <div className="md:pt-0 md:pl-5  xs:pt-10 animate-moveleft">
-                <img src="./src/assets/hero.png" style={{width : "120vh"}} alt="" />
+                <img src="./assets/hero.png" style={{width : "120vh"}} alt="" />
                 </div>
             </div>
             <span className=" pt-10 block border-b-2 border-gray-300"></span>
